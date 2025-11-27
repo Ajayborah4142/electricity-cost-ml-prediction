@@ -71,7 +71,7 @@ Includes:
 1.  Clone the repository:
 
     ``` bash
-    git clone https://github.com/your-username/electricity-consumption-prediction.git
+    git clone https://github.com/Ajayborah4142/electricity-cost-ml-prediction
     ```
 
 2.  Install dependencies:
